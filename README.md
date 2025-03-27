@@ -1,5 +1,5 @@
 # Portfolio Website
-This is my personal portfolio website, showcasing my work, skills, and projects. 
+This is my personal portfolio website, showcasing my work, skills, and projects. I will continue to update this as I gain more experience. 
 
 **Link:** aidanmiller.xyz
 
