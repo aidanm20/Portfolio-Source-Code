@@ -1,7 +1,7 @@
 # Portfolio Website
 This is my personal portfolio website, showcasing my work, skills, and projects. 
 
-**Link:** [aidanmiller.xyz](url)
+**Link:** aidanmiller.xyz
 
 ## Features
 
